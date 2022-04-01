@@ -21,7 +21,6 @@
 <form action="{{ route('persona.store') }}" method="POST">
 @endif
 
-
     @csrf
     <!--token para seguridad-->
     <div class="mb3">

@@ -55,7 +55,6 @@
     {{$personas->links() }}    
     @endif
     
-
 </div>
 
 @endsection
