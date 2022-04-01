@@ -46,9 +46,8 @@
                 <td colspan="6">No Hay Registros</td>
             </tr>
             @endforelse
-           
+        
         </tbody>
-
     </table>
 
     @if ($personas->count())
